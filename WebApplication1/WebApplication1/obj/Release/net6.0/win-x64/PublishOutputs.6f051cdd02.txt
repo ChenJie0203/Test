@@ -1,0 +1,7 @@
+C:\Users\lenovo\source\repos\WebApplication1\WebApplication1\bin\Release\net6.0\win-x64\publish\WebApplication1.exe
+C:\Users\lenovo\source\repos\WebApplication1\WebApplication1\bin\Release\net6.0\win-x64\publish\appsettings.Development.json
+C:\Users\lenovo\source\repos\WebApplication1\WebApplication1\bin\Release\net6.0\win-x64\publish\appsettings.json
+C:\Users\lenovo\source\repos\WebApplication1\WebApplication1\bin\Release\net6.0\win-x64\publish\WebApplication1.dll
+C:\Users\lenovo\source\repos\WebApplication1\WebApplication1\bin\Release\net6.0\win-x64\publish\WebApplication1.deps.json
+C:\Users\lenovo\source\repos\WebApplication1\WebApplication1\bin\Release\net6.0\win-x64\publish\WebApplication1.runtimeconfig.json
+C:\Users\lenovo\source\repos\WebApplication1\WebApplication1\bin\Release\net6.0\win-x64\publish\WebApplication1.pdb
