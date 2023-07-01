@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YQiFFcoixump6rd4hfgQj/K07eKG5+Bjik+wUYy64TXYI2fNMZ1uHAYQ0fVqrBODvN3eMVRpLPaLnUU3/GW7ig==",
+  "success": true,
+  "projectFilePath": "D:\\相关资料\\Test\\Test01\\Test01\\Test01.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lenovo\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.2\\microsoft.visualstudio.azure.containers.tools.targets.1.17.2.nupkg.sha512"
+  ],
+  "logs": []
+}
