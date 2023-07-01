@@ -1,6 +1,0 @@
-C:\app\publish\appsettings.Development.json
-C:\app\publish\appsettings.json
-C:\app\publish\WebApplication1.dll
-C:\app\publish\WebApplication1.deps.json
-C:\app\publish\WebApplication1.runtimeconfig.json
-C:\app\publish\WebApplication1.pdb
